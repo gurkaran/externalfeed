@@ -7,3 +7,5 @@ example.com
 93.184.215.14
 2606:2800:21f:cb07:6820:80da:af6b:8b2c
 radishnetworks.com
+httpforever.com
+
